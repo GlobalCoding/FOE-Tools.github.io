@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /survey
+Disallow: /fr/survey
+Disallow: /de/survey
+Disallow: /ru/survey
+Disallow: /nl/survey
+Disallow: /hu/survey
+Disallow: /pl/survey
+Disallow: /sv/survey
+Disallow: /pt/survey
+Disallow: /es/survey
+Disallow: /sk/survey
+Disallow: /tr/survey
+Disallow: /it/survey
+Disallow: /cs/survey
+Disallow: /da/survey
+Sitemap: https://foe-tools.github.io/sitemap.xml
